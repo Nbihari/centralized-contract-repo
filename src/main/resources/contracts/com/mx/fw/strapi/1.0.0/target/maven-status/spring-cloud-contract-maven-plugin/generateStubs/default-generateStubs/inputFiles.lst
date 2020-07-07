@@ -1,0 +1,3 @@
+META-INF/com.mx.fw/strapi/0.0.1/contracts/pom.xml
+META-INF/com.mx.fw/strapi/0.0.1/contracts/backend-framework-service/emailsTemplates.yml
+META-INF/com.mx.fw/strapi/0.0.1/mappings/backend-framework-service/emailTemplate.json

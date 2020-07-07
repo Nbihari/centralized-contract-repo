@@ -1,0 +1,3 @@
+META-INF/com.mx.fw/contract-module/0.0.1/contracts/pom.xml
+META-INF/com.mx.fw/contract-module/0.0.1/contracts/consumer/sendEmail.yml
+META-INF/com.mx.fw/contract-module/0.0.1/mappings/consumer/Send Email.json

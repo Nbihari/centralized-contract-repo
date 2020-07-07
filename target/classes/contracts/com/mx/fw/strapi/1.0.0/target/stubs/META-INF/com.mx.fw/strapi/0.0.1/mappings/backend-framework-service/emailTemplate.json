@@ -1,0 +1,21 @@
+{
+  "id" : "0ed1af2d-df3c-47c7-9d0c-d104af67b5e6",
+  "request" : {
+    "urlPath" : "/templates",
+    "method" : "GET",
+    "queryParameters" : {
+      "name" : {
+        "equalTo" : "Contact-default"
+      }
+    }
+  },
+  "response" : {
+    "status" : 200,
+    "body" : "[{\"subject\":\"Test Subject\",\"messageContentType\":\"text\",\"name\":\"Contact\",\"templateType\":\"Mustache\",\"message\":\"Test message\"}]",
+    "headers" : {
+      "Content-Type" : "application/json"
+    },
+    "transformers" : [ "response-template" ]
+  },
+  "uuid" : "0ed1af2d-df3c-47c7-9d0c-d104af67b5e6"
+}
